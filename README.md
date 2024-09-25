@@ -6,7 +6,7 @@ Using machine learning, we analyze Amazon basin deforestation data. Inspired by 
 
 ## Report
 
-For the detailed analysis, refer to the [full report](m2pi__team_5_multiverse.pdf).
+For the detailed analysis, refer to the [full report](./docs/m2pi__team_5_multiverse.pdf).
 
 ## Links
 
